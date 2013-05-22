@@ -1,1 +1,9 @@
-Script to generate dungeon world monster cards html, that can be printed to PDF then
+Script to generate printable dungeon world monster cards html. It is incredibly messy, sorry for that.
+
+mtox.py makes monster.xml file out of dungeon world sources
+xtoh.py makes html file out of monsters.xml
+
+*.py files are ny Vasily Shapovalov and free to use as you like
+images by am_, licensed under CC-BY-SA
+text is from Dungeon World by Adam Koebel and Sage LaTorra
+boxfit.js by Michi Kono (michikono.com), http://www.opensource.org/licenses/mit-license.php
